@@ -8,6 +8,8 @@ I'm always eager to expand my skills and explore opportunities across diverse fi
 ![](https://img.shields.io/badge/<Tools>-<SQL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Code>-<R>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
 <!--
 **YihanWu123/YihanWu123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
