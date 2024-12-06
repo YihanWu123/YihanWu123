@@ -1,5 +1,9 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Hi there! I'm a passionate data analyst with expertise in R and Python, specializing in turning data into actionable insights. With a strong foundation in economics, I enjoy tackling complex problems, uncovering trends, and crafting compelling narratives through data visualization and statistical analysis.
 
+I'm always eager to expand my skills and explore opportunities across diverse fields, from data analytics to economic research and beyond. Let's connect and create something impactful together!
+
+# Technologies and Skills
 ![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Tools>-<SQL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Code>-<R>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
